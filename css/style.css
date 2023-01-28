@@ -43,3 +43,34 @@ h1 {
 .white {
     color:white;
 }
+
+#principal {
+    width: 920px;
+    margin: 0 auto;
+}
+#content, #side {
+    background:orange;
+}
+
+#content {
+    width: 660px;
+    float: left;
+}
+
+#side {
+    width: 240px;
+    float: right;
+}
+
+.post {
+    padding: 20px;
+    margin-bottom: 20px;
+    background: white;
+}
+
+#footer {
+    clear: both;
+    text-align: center;
+    padding: 15px;
+    background: #CCC;
+}
