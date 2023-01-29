@@ -53,6 +53,12 @@ h2 {
     color:#f7b600;
 }
 
+h3 {
+    color: #565656;
+    background: #CCC;
+    padding: 5px;
+}
+
 .post-date {
     font-size: 0.8em;
     border-bottom: 1px solid #f4f4f4;
@@ -76,15 +82,27 @@ h2 {
     float: left;
 }
 
+.post {
+    padding: 20px;
+    margin-bottom: 20px;
+    background: white;
+}
+
 #side {
     width: 240px;
     float: right;
 }
 
-.post {
-    padding: 20px;
-    margin-bottom: 20px;
+.side-content {
     background: white;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.side-text {
+    font-size: 0.8em;
+    padding: 5px;
+    border-bottom: 1px dotted #CCC;
 }
 
 #footer {
