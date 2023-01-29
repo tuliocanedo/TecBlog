@@ -26,13 +26,22 @@ a {
 }
 
 a:link, a:visited {
+    color: #f7b600;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#head-area a:link, #head-area a:visited {
     color: #fff;
     padding: 8px 12px;
 }
 
-a:hover {
+#head-area a:hover {
     color: #f7b600;
     background: #fff;
+    text-decoration: none;
 }
 
 h1 {
@@ -60,9 +69,6 @@ h2 {
     width: 920px;
     margin: 0 auto;
     padding: 15px;
-}
-#content, #side {
-    background:orange;
 }
 
 #content {
