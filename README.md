@@ -42,7 +42,7 @@ I'm able to:
 
 ## My process
 
-To build a Web site using HTML5 with table.
+To build a Web site using HTML5 and CSS3.
 
 ### Built with
 
